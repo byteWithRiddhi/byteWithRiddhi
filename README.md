@@ -7,7 +7,6 @@
 - 🎓 IT Student passionate about building real-world projects  
 - 💻 Skilled in Java, SQL, UI/UX (Figma, Canva)  
 - 🚀 Currently learning AI/ML & Data Analysis  
-- 🏆 1st Prize in Blind Coding Competition  
 
 ---
 
@@ -19,11 +18,10 @@
 ---
 
 ### 📌 Projects
-- 🎂 Celebration Sphere – Bakery & Event Management Platform  
-- 🛡️ FraudGuard – AI-Based Fraud Detection System  
-- ☀️ Dual Axis Solar Tracking System  
 - 🎮 Quiz Game  
-
+- 🛡️ FraudGuard – AI-Based Fraud Detection System   
+- 🎂 Celebration Sphere – Bakery & Event Management Platform
+- ☀️ Dual Axis Solar Tracking System  
 ---
 
 ### 📫 Connect with Me
@@ -35,7 +33,4 @@
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byteWithRiddhi&show_icons=true&theme=tokyonight" />
 </p>
