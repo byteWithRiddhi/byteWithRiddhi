@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 - 🎓 IT student passionate about building real-world applications  
-- 💻 Skilled in **Java, SQL, UI/UX (Figma, Canva)**  
+- 💻 Skilled in **Java, Python, SQL, UI/UX (Figma, Canva)**  
 - 🚀 Currently exploring **AI/ML & Data Analysis**  
 ---
 
@@ -60,4 +60,4 @@
 
 ---
 
-<p align="center">✨ Building, Learning, and Growing Every Day ✨</p>
+<p align="center">Learning in progress — bugs included 🐞✨ </p>
