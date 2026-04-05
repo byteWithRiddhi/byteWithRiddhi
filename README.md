@@ -36,3 +36,6 @@
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byteWithRiddhi&show_icons=true&theme=tokyonight" />
+</p>
