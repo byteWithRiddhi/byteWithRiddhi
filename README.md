@@ -39,13 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteWithRiddhi&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
