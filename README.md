@@ -1,54 +1,162 @@
 
-# Hi, I'm Riddhi 👋
+<div align="center">
 
-### Developer in progress. Building, learning, and occasionally debugging.
+# 𝙃𝙞, 𝙄'𝙢 𝙍𝙞𝙙𝙙𝙝𝙞 👋
 
-I'm an MCA student interested in building practical applications and exploring AI, data, and software development.
+### `Developer in progress · Always curious · Occasionally debugging`
 
-Currently learning, experimenting, and turning ideas into projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+SQL;Building+ideas+into+applications;Exploring+AI+%26+Data+Analysis;Learning+something+new+every+day" alt="Typing SVG" />
 
----
+<br>
 
-## About
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/byteWithRiddhi)
 
-- 🎓 MCA student passionate about technology and real-world applications
-- 💻 Comfortable working with Java, Python, SQL, and web technologies
-- 🔍 Exploring AI/ML and Data Analysis
-- 🌱 Always learning something new
+</div>
 
 ---
 
-## Tech Stack
+## `~/about-me`
 
-**Languages**
+```text
+Name       : Riddhi Pawar
+Role       : MCA Student & Developer
+Focus      : Application Development | AI | Data
+Currently  : Learning, building & experimenting
+```
 
-Java · Python · SQL · JavaScript
+I'm an MCA student who enjoys turning ideas into practical applications.
 
-**Web Technologies**
+I work primarily with Java, Python, SQL, and web technologies,
+while exploring AI/ML and Data Analysis.
 
-HTML · CSS
-
-**Currently Exploring**
-
-AI/ML · Data Analysis · Application Development
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🛡️ FraudGuard | AI-based fraud detection system using transaction data |
-| 🎂 Celebration Sphere | Platform for bakery shops and event managers |
-| ☀️ Dual Axis Solar Tracker | Arduino-based system for solar panel efficiency |
-| 🎮 Quiz Game | Interactive application with real-time game logic |
+I believe good software is built through curiosity,
+consistent learning, and a willingness to debug things
+that worked perfectly five minutes ago.
 
 ---
 
-## Connect With Me
+## `tech-stack`
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/byteWithRiddhi)
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,js" />
+
+### Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+
+</div>
 
 ---
 
-> Learning in progress — bugs included 🐞
+## `featured-projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ FraudGuard
+
+AI-based fraud detection system
+using transaction data analysis.
+
+`Python` `Flask` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🎂 Celebration Sphere
+
+A platform for bakery shops
+and event managers.
+
+`HTML` `CSS` `Python` `PHP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☀️ Dual Axis Solar Tracker
+
+Arduino-based system designed
+to optimize solar panel efficiency.
+
+`Arduino` `Hardware`
+
+</td>
+<td width="50%">
+
+### 🎮 Quiz Game
+
+Interactive application featuring
+real-time game logic.
+
+`Java` `GUI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `currently-learning`
+
+- AI / Machine Learning
+- Data Analysis
+- Better coding practices
+- Building useful applications
+
+---
+
+## `a little about me`
+
+<div align="center">
+
+```text
+        /\_/\\
+       ( o.o )
+        > ^ <
+
+   just a developer
+   and her debugging companion
+```
+
+</div>
+
+> "Small steps. Clean code. Better questions."
+
+---
+
+## `github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=byteWithRiddhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteWithRiddhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Let's connect, collaborate & build something useful.`
+
+<br>
+
+**Learning in progress — bugs included 🐞**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+
+</div>
