@@ -149,7 +149,7 @@ and finding ways to make technology more useful.
 
 <td width="45%" align="center">
 
-<img src="profile-image.png" width="400" alt="A glimpse into my learning journey"/>
+<img src="https://i.pinimg.com/1200x/ba/95/b6/ba95b6914d2e20324abb856d375df009.jpg" width="400" alt="A glimpse into my learning journey"/>
 
 </td>
 </tr>
