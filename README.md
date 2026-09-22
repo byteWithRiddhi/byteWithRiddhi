@@ -134,7 +134,7 @@ users plan, explore, and organize travel itineraries.
 
 <div align="center">
 
-<img src="profile-image.png" width="420" alt="A glimpse into my learning journey"/>
+<img src="https://i.pinimg.com/1200x/ba/95/b6/ba95b6914d2e20324abb856d375df009.jpg" width="420" alt="A glimpse into my learning journey"/>
 
 </div>
 
