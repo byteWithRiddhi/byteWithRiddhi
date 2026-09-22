@@ -27,32 +27,30 @@ into meaningful projects.
 
 ---
 
+
+---
+
 ## Tech Stack
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
-
-### Data, AI & Tools
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,figma,canva" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,pandas,numpy,figma,canva" />
 
 <br><br>
 
 | Area | Skills |
 |---|---|
 | Programming | Java (Core), Python, JavaScript |
-| Web Development | HTML, CSS |
 | Database | SQL, Advanced DBMS |
+| Web Development | HTML, CSS |
 | AI & Analytics | AI/ML, Data Analysis |
-| Data Tools | Power BI, Microsoft Excel |
+| Tools | Power BI, Excel |
 | Design | Figma, Canva |
 
 </div>
 
 ---
+
 
 ## Featured Projects
 
