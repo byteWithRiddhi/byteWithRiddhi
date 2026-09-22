@@ -1,105 +1,118 @@
 
 <div align="center">
 
-# 𝙃𝙞, 𝙄'𝙢 𝙍𝙞𝙙𝙙𝙝𝙞 👋
+# Riddhi Pawar
 
-### `Developer in progress · Always curious · Occasionally debugging`
+### MCA Student | Developer | Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+SQL;Building+ideas+into+applications;Exploring+AI+%26+Data+Analysis;Learning+something+new+every+day" alt="Typing SVG" />
+*Turning ideas into useful applications.*
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/byteWithRiddhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-212121?style=flat-square&logo=github&logoColor=white)](https://github.com/byteWithRiddhi)
 
 </div>
 
 ---
 
-## `~/about-me`
+## About Me
 
-```text
-Name       : Riddhi Pawar
-Role       : MCA Student & Developer
-Focus      : Application Development | AI | Data
-Currently  : Learning, building & experimenting
-```
+I'm an MCA student with an interest in software development, 
+Artificial Intelligence, and Data Analysis.
 
-I'm an MCA student who enjoys turning ideas into practical applications.
+I enjoy building practical applications, exploring new technologies,
+and continuously improving my problem-solving and coding skills.
 
-I work primarily with Java, Python, SQL, and web technologies,
-while exploring AI/ML and Data Analysis.
-
-I believe good software is built through curiosity,
-consistent learning, and a willingness to debug things
-that worked perfectly five minutes ago.
+Currently focused on learning, experimenting, and turning ideas
+into meaningful projects.
 
 ---
 
-## `tech-stack`
+## Tech Stack
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,js" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
 
-### Web Technologies
+### Data, AI & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,figma,canva" />
 
-### Exploring
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+| Area | Skills |
+|---|---|
+| Programming | Java (Core), Python, JavaScript |
+| Web Development | HTML, CSS |
+| Database | SQL, Advanced DBMS |
+| AI & Analytics | AI/ML, Data Analysis |
+| Data Tools | Power BI, Microsoft Excel |
+| Design | Figma, Canva |
 
 </div>
 
 ---
 
-## `featured-projects`
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ FraudGuard
+### PLT.grade
 
-AI-based fraud detection system
-using transaction data analysis.
+A student analytics platform that transforms
+MCA results into meaningful academic insights.
 
-`Python` `Flask` `MongoDB`
+**Tech:** Python · Flask · MySQL · Pandas
 
 </td>
 <td width="50%">
 
-### 🎂 Celebration Sphere
+### FraudGuard
 
-A platform for bakery shops
-and event managers.
+An AI-based fraud detection system designed
+to analyze transaction data and identify
+potentially fraudulent activities.
 
-`HTML` `CSS` `Python` `PHP`
+**Tech:** Python · Flask · MongoDB
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### ☀️ Dual Axis Solar Tracker
+### Celebration Sphere
 
-Arduino-based system designed
-to optimize solar panel efficiency.
+A platform for bakery shops and event managers
+to showcase services and manage bookings.
 
-`Arduino` `Hardware`
+**Tech:** HTML · CSS · Python · PHP
 
 </td>
 <td width="50%">
 
-### 🎮 Quiz Game
+### Nightfall Survival
 
-Interactive application featuring
-real-time game logic.
+A 2D survival game where players fight zombies,
+collect resources, and overcome challenges.
 
-`Java` `GUI`
+**Tech:** Java · GUI · Game Development
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### Wanderly
+
+A trip planner web application designed to help
+users plan, explore, and organize travel itineraries.
+
+**Tech:** HTML · CSS · JavaScript
 
 </td>
 </tr>
@@ -107,56 +120,40 @@ real-time game logic.
 
 ---
 
-## `currently-learning`
+## Currently Learning
 
-- AI / Machine Learning
-- Data Analysis
+- Artificial Intelligence & Machine Learning
+- Data Analysis — Power BI & Excel
+- Advanced Database Concepts
 - Better coding practices
-- Building useful applications
+- Building meaningful applications
 
 ---
 
-## `a little about me`
+## A Little About Me
 
 <div align="center">
 
-```text
-        /\_/\\
-       ( o.o )
-        > ^ <
-
-   just a developer
-   and her debugging companion
-```
+<img src="profile-image.png" width="420" alt="A glimpse into my learning journey"/>
 
 </div>
 
-> "Small steps. Clean code. Better questions."
+I'm curious by nature, enjoy creative problem-solving,
+and believe consistent learning leads to meaningful growth.
 
----
+Beyond code, I enjoy exploring ideas, designing interfaces,
+and finding ways to make technology more useful.
 
-## `github-stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=byteWithRiddhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteWithRiddhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="170"/>
-
-</div>
+> "Consistent learning today, a better tomorrow."
 
 ---
 
 <div align="center">
 
-### `Let's connect, collaborate & build something useful.`
+### Let's connect, collaborate & build something useful.
 
 <br>
 
-**Learning in progress — bugs included 🐞**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+**Learning • Building • Growing**
 
 </div>
