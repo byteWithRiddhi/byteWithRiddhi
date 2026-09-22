@@ -34,7 +34,7 @@ into meaningful projects.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,pandas,numpy,figma,canva" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,html,css,js,docker,pandas,numpy,figma,canva" />
 
 <br><br>
 
