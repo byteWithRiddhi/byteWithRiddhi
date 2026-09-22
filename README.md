@@ -1,54 +1,54 @@
-<h1 align="center">Hi 👋, I'm Riddhi Pawar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;UI%2FUX+Enthusiast;Exploring+AI%2FML+%26+Data+Analysis" />
-</p>
+# Hi, I'm Riddhi 👋
 
----
+### Developer in progress. Building, learning, and occasionally debugging.
 
-### 💫 About Me
-- 🎓 IT student passionate about building real-world applications  
-- 💻 Skilled in **Java, Python, SQL, UI/UX (Figma, Canva)**  
-- 🚀 Currently exploring **AI/ML & Data Analysis**  
----
+I'm an MCA student interested in building practical applications and exploring AI, data, and software development.
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma">
-</p>
+Currently learning, experimenting, and turning ideas into projects.
 
 ---
 
-### 🚀 Featured Projects
+## About
 
-- 🛡️ **FraudGuard**  
-  AI-driven fraud detection system using transaction data analysis  
-
-- 🎂 **Celebration Sphere**  
-  Platform for bakery shops & event managers with customization & booking features
-  
-- ☀️ **Dual Axis Solar Tracker**  
-  Arduino-based system to optimize solar panel efficiency  
-
-- 🎮 **Quiz Game**  
-  Interactive application with real-time game logic  
+- 🎓 MCA student passionate about technology and real-world applications
+- 💻 Comfortable working with Java, Python, SQL, and web technologies
+- 🔍 Exploring AI/ML and Data Analysis
+- 🌱 Always learning something new
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/byteWithRiddhi">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+## Tech Stack
+
+**Languages**
+
+Java · Python · SQL · JavaScript
+
+**Web Technologies**
+
+HTML · CSS
+
+**Currently Exploring**
+
+AI/ML · Data Analysis · Application Development
 
 ---
 
-<p align="center"> ✨Learning in progress — bugs included 🐞✨ </p>
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛡️ FraudGuard | AI-based fraud detection system using transaction data |
+| 🎂 Celebration Sphere | Platform for bakery shops and event managers |
+| ☀️ Dual Axis Solar Tracker | Arduino-based system for solar panel efficiency |
+| 🎮 Quiz Game | Interactive application with real-time game logic |
+
+---
+
+## Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/byteWithRiddhi)
+
+---
+
+> Learning in progress — bugs included 🐞
