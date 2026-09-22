@@ -127,11 +127,13 @@ users plan, explore, and organize travel itineraries.
 
 ---
 
+---
+
 ## A Little About Me
 
-<div>
-
-<img src="https://i.pinimg.com/1200x/ba/95/b6/ba95b6914d2e20324abb856d375df009.jpg" width="420" alt="A glimpse into my learning journey"/>
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 I'm curious by nature, enjoy creative problem-solving,
 and believe consistent learning leads to meaningful growth.
@@ -139,8 +141,21 @@ and believe consistent learning leads to meaningful growth.
 Beyond code, I enjoy exploring ideas, designing interfaces,
 and finding ways to make technology more useful.
 
+<br>
+
 > "Consistent learning today, a better tomorrow."
-</div>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="profile-image.png" width="400" alt="A glimpse into my learning journey"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 
 
