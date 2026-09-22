@@ -123,16 +123,13 @@ users plan, explore, and organize travel itineraries.
 ## Currently Learning
 
 - Artificial Intelligence & Machine Learning
-- Data Analysis — Power BI & Excel
-- Advanced Database Concepts
-- Better coding practices
-- Building meaningful applications
+- Data Analysis 
 
 ---
 
 ## A Little About Me
 
-<div align="center">
+<div align="right">
 
 <img src="https://i.pinimg.com/1200x/ba/95/b6/ba95b6914d2e20324abb856d375df009.jpg" width="420" alt="A glimpse into my learning journey"/>
 
